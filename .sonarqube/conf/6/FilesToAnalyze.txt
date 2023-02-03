@@ -1,0 +1,8 @@
+﻿C:\Users\POOPKAKA\source\repos\Spotify_API\Logic\Container\PlayListContainer.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Logic\Container\SongContainer.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Logic\Container\UserContainer.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Logic\Helpers\ChatHelper.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Logic\Helpers\JwtHelper.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Logic\Model\Playlist.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Logic\Model\Song.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Logic\Model\User.cs

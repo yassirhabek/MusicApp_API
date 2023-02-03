@@ -1,0 +1,13 @@
+﻿C:\Users\POOPKAKA\source\repos\Spotify_API\Spotify_API\Controllers\AccountController.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Spotify_API\Controllers\ChatController.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Spotify_API\Controllers\SongController.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Spotify_API\Program.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Spotify_API\obj\Debug\net6.0\Spotify_API.GlobalUsings.g.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Spotify_API\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Spotify_API\obj\Debug\net6.0\Spotify_API.AssemblyInfo.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Spotify_API\obj\Debug\net6.0\Spotify_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Spotify_API\appsettings.Development.json
+C:\Users\POOPKAKA\source\repos\Spotify_API\Spotify_API\appsettings.json
+C:\Users\POOPKAKA\source\repos\Spotify_API\Spotify_API\Dockerfile
+C:\Users\POOPKAKA\source\repos\Spotify_API\Spotify_API\Properties\launchSettings.json
+C:\Users\POOPKAKA\source\repos\Spotify_API\.dockerignore

@@ -1,0 +1,7 @@
+﻿C:\Users\POOPKAKA\source\repos\Spotify_API\Interface\DTO\PlayListDTO.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Interface\DTO\SongDTO.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Interface\DTO\UserDTO.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Interface\Enum\AccountRole.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Interface\Interface\IPlaylistContainer.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Interface\Interface\ISongContainer.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Interface\Interface\IUserContainer.cs

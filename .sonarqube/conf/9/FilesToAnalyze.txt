@@ -1,0 +1,11 @@
+﻿C:\Users\POOPKAKA\source\repos\Spotify_API\Test\Stubs\UserDalStub.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Test\UnitTest\UserTest.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\Test\Usings.cs
+C:\Users\POOPKAKA\.nuget\packages\microsoft.net.test.sdk\17.1.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\POOPKAKA\.nuget\packages\microsoft.testplatform.testhost\17.1.0\build\netcoreapp2.1\x64\testhost.exe
+C:\Users\POOPKAKA\.nuget\packages\microsoft.testplatform.testhost\17.1.0\build\netcoreapp2.1\x64\testhost.dll
+C:\Users\POOPKAKA\.nuget\packages\microsoft.testplatform.testhost\17.1.0\build\netcoreapp2.1\x64\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\POOPKAKA\.nuget\packages\mstest.testadapter\2.2.8\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\POOPKAKA\.nuget\packages\mstest.testadapter\2.2.8\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\POOPKAKA\.nuget\packages\mstest.testadapter\2.2.8\build\netcoreapp1.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\POOPKAKA\.nuget\packages\mstest.testadapter\2.2.8\build\netcoreapp1.0\Microsoft.TestPlatform.AdapterUtilities.dll

@@ -1,0 +1,12 @@
+﻿C:\Users\POOPKAKA\source\repos\Spotify_API\DAL\DAL\PlayListDAL.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\DAL\DAL\SongDAL.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\DAL\DAL\UserDAL.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\DAL\Migrations\20221014122315_song-overhaul.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\DAL\Migrations\20221014122315_song-overhaul.Designer.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\DAL\Migrations\20221014130524_removed-playlist.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\DAL\Migrations\20221014130524_removed-playlist.Designer.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\DAL\Migrations\20221109175637_song-fixes.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\DAL\Migrations\20221109175637_song-fixes.Designer.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\DAL\Migrations\SurroundDbContextModelSnapshot.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\DAL\SurroundDbContext.cs
+C:\Users\POOPKAKA\source\repos\Spotify_API\DAL\Properties\launchSettings.json

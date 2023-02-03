@@ -1,0 +1,69 @@
+image: mcr.microsoft.com/dotnet/sdk:latest
+
+variables:
+  OBJECTS_DIRECTORY: 'obj'
+  NUGET_PACKAGES_DIRECTORY: '.nuget'
+  SOURCE_CODE_PATH: '*/*/'
+
+include:
+  - template: Code-Quality.gitlab-ci.yml
+
+stages:
+  - build
+  - test
+  - quality
+  - build-image
+  
+
+cache:
+  key: "$CI_JOB_STAGE-$CI_COMMIT_REF_SLUG"
+  paths:
+    - '$SOURCE_CODE_PATH$OBJECTS_DIRECTORY/project.assets.json'
+    - '$SOURCE_CODE_PATH$OBJECTS_DIRECTORY/*.csproj.nuget.*'
+    - '$NUGET_PACKAGES_DIRECTORY'
+
+  policy: pull-push
+
+
+build:
+  stage: build
+  before_script:
+  - 'dotnet restore --packages $NUGET_PACKAGES_DIRECTORY'
+  script:
+    - 'dotnet build --no-restore'
+
+tests:
+  stage: test
+  script:
+    - 'dotnet test --no-restore'
+
+code_quality:
+  stage: quality
+  tags:
+    - quality-runner
+  artifacts:
+    paths: [gl-code-quality-report.json]
+
+build-image:
+  stage: build-image
+
+  image: 
+    name: docker:20.10.16
+
+  variables:
+    DOCKER_HOST: tcp://docker:2375
+    DOCKER_DRIVER: overlay2
+    DOCKER_TLS_CERTDIR: ""
+
+
+  before_script:
+    - docker info 
+
+
+  services:
+    - docker:20.10.16-dind
+
+  script:
+    - docker login -u yassirhabek -p Vredeoord123
+    - docker build -t yassirhabek/spotifyapi:latest .
+    - docker push yassirhabek/spotifyapi:latest
